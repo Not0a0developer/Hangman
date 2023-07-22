@@ -1,2 +1,2 @@
 # Hangman
-#Idk just download it and try it for yourself
+Idk just download it and try it for yourself
